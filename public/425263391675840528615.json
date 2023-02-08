@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "325573496470",
+    "project_id": "nastdev-developer",
+    "storage_bucket": "nastdev-developer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325573496470:android:12103bb24cb25e98027cb7",
+        "android_client_info": {
+          "package_name": "com.nasdev.fakechatprank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325573496470-irvg9rmgh3q5fnp79hq336h7nrs66233.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVaUKYUJ466-3ZCXICt3mbA6Ihyxcodg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325573496470-irvg9rmgh3q5fnp79hq336h7nrs66233.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325573496470:android:cd1013e33d072658027cb7",
+        "android_client_info": {
+          "package_name": "com.pranksound.airhornfart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325573496470-irvg9rmgh3q5fnp79hq336h7nrs66233.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVaUKYUJ466-3ZCXICt3mbA6Ihyxcodg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325573496470-irvg9rmgh3q5fnp79hq336h7nrs66233.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
